@@ -5,10 +5,4 @@
 ## 📌 Реалізовані алгоритми
 - **Сортування**: QuickSort, Bubble Sort
 - **Пошук**: Binary Search
-
-## 🛠️ Швидкий старт
-
-### 1. Клонування репозиторію
-```bash
-git clone [https://github.com/YOUR_USERNAME/algo-core.git](https://github.com/YOUR_USERNAME/algo-core.git)
-cd algo-core
+  
