@@ -1,1 +1,12 @@
-
+algo-core/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── algorithms/
+│   ├── __init__.py
+│   ├── searching.py
+│   └── sorting.py
+└── tests/
+    ├── __init__.py
+    ├── test_searching.py
+    └── test_sorting.py
